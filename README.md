@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# bootstrap-portfolio-test
+# Bootstrap-Portfolio-Project
 In this project, we learned how bootstrap works.
 
 - ![screenshot](/images/bootstrap-v1.png)
